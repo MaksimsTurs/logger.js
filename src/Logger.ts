@@ -14,7 +14,7 @@ import createFileName from "./utils/create-file-name.util.ts";
 import { isObject, isItemExist, isAlphabetic } from "./utils/is.util.ts";
 
 export default class Logger<M extends string | number> implements LoggerImpl<M> {
-  public static colorizer: Colorizer = colorizer();
+  public static colorizer: () => Colorizer = colorizer;
   
   public constructor(options: LoggerOptions<M>) {
     this.options = options;
