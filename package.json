@@ -1,11 +1,11 @@
 {
-  "name": "logger.js",
+  "name": "@maksims/logger.js",
   "version": "1.1.2",
   "description": "Small and simple logging library to log the information in to files and terminal.",
   "license": "ISC",
   "author": "MaksimsTurs",
   "type": "module",
-  "main": "./src/Logger.ts",
+  "main": "./src/Loqqer.ts",
   "devDependencies": {
     "@types/node": "^25.0.9"
   },
