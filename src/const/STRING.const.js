@@ -4,6 +4,6 @@ const STRING = {
     INFO:  "INFO",
     WARN:  "WARN"
   },
-} as const;
+};
 
 export default STRING
