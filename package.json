@@ -6,9 +6,6 @@
   "author": "MaksimsTurs",
   "type": "module",
   "main": "./src/Loqqer.ts",
-  "devDependencies": {
-    "@types/node": "^25.0.9"
-  },
   "dependencies": {
     "colorizer.js": "^1.0.1"
   }
