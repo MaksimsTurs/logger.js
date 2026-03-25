@@ -7,6 +7,6 @@
   "type": "module",
   "main": "./src/logger.js",
   "dependencies": {
-    "colorizer.js": "^1.0.1"
+    "@maksims/colorizer.js": "^2.0.2"
   }
 }
