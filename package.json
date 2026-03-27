@@ -1,6 +1,6 @@
 {
   "name": "@maksims/logger.js",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "Small and simple logging library to log the information in to files and console.",
   "license": "ISC",
   "author": "MaksimsTurs",
